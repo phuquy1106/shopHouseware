@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                                    
+    
+    
+    
+    
+    
+    
+    
+    <wb-module deploy-name="do-an-java">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/view"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/view/client"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/view/client/banner-slider"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/view/admin"/>
+        <wb-resource deploy-path="/" source-path="/src/giadung/webmvc/controller/client"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/view/client/header"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/view/admin/uiadmin"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/view/admin/product"/>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <property name="context-root" value="do-an-java"/>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <property name="java-output-path" value="/do-an-java/build/classes"/>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </wb-module>
+                                
+
+
+
+
+
+
+
+</project-modules>
